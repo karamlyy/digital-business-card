@@ -4,7 +4,7 @@ body {
 }
 
 section{
-    width: 30%;
+    width: 350px;
     align-items: center;
     background-color: rgb(13, 13, 14);
     margin: 53px auto;
@@ -113,4 +113,7 @@ li{
 }
 li:hover{
     background-color: antiquewhite;
+}
+.social2{
+    margin: 5px;
 }
