@@ -100,7 +100,7 @@ i{
     width: 350px;
     color: #F5F5F5;
     background-color: #16191e;
-    border-radius: 10px;
+    border-radius: 0px 0px 10px 10px;
 }
 li{
     list-style-type: none;
